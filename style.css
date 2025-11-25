@@ -1,0 +1,4 @@
+body { font-family: Arial; padding:20px; }
+#flashcard { border:1px solid #ccc; padding:20px; margin-bottom:20px; }
+button { padding:10px 20px; }
+#options button { display:block; margin:5px 0; }
